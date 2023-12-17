@@ -1,0 +1,16 @@
+#spring:
+#  profiles:
+#    active: local
+#
+#---
+#
+#spring:
+#  config:
+#    activate:
+#      on-profile: local
+#  kafka:
+#    producer:
+#      bootstrap-servers:
+#      key-serializer:
+#      value-serializer:
+

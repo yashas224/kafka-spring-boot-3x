@@ -1,0 +1,3 @@
+-Dmanual-commit=false
+-Dack-flag=true
+-Dconcurrency-level=3
